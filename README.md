@@ -5,6 +5,6 @@ In the Part 1: Acquiring the Data, the virus data is obtained from Avira web sit
 
 The data consist of properties of viruses such as their names (with their prefix and suffix for variations), their impact, influence, documentation date, information date, discovery date as well as their target operating system. The time interval for this data is approximately 8 months. Various questions are asked/answered in the Part 3: Exploratory Analysis. The visualizations are mostly focused on the variables change over time. Besides, a heatmap for comparison of the properties of the most frequent viruses also provided in this section.
 
-(Part 1)[http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-i/]
-(Part 2)[http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-ii/]
-(Part 3)[http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-iii/]
+![Part 1](http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-i/)
+![Part 2](http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-ii/)
+![Part 3](http://serhanaya.github.io/visual-analysis-of-cyber-threat-part-iii/)
